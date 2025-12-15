@@ -178,7 +178,7 @@ button {
   }
 }
 .logo {
-  width: clamp(115px, 8.93vw, 170px);
+  width: clamp(150px, 16vw, 320px);
 }
 
 .ul-bs-row {
